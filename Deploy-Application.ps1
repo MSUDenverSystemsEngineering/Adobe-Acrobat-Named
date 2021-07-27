@@ -65,12 +65,12 @@ Try {
 	## Variables: Application
 	[string]$appVendor = 'Adobe'
 	[string]$appName = 'Acrobat DC'
-	[string]$appVersion = '20'
+	[string]$appVersion = '2021'
 	[string]$appArch = 'x64'
 	[string]$appLang = 'EN'
 	[string]$appRevision = '01'
 	[string]$appScriptVersion = '3.8.0.0'
-	[string]$appScriptDate = '02/25/2020'
+	[string]$appScriptDate = '07/27/2021'
 	[string]$appScriptAuthor = 'James Hardy'
 	##*===============================================
 	## Variables: Install Titles (Only set here to override defaults set by the toolkit)
